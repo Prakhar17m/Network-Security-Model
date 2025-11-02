@@ -10,3 +10,6 @@ data ingestion steps
 2>create features store
 3>split data as train and test
 4>ingested
+
+
+uvicon app:app --reload
