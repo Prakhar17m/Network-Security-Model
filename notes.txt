@@ -1,0 +1,7 @@
+ETL pipeline ---extract transform and load pipeline
+1>source-----transformation-------->destination
+in tranformation we do the basic prpocessing andn cleanong raw data after that we will carry it to the mangodb
+
+-------------------------------------------------------------------------
+
+
