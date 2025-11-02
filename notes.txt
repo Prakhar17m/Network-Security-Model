@@ -5,3 +5,8 @@ in tranformation we do the basic prpocessing andn cleanong raw data after that w
 -------------------------------------------------------------------------
 
 
+data ingestion steps
+1>save the data in  the database
+2>create features store
+3>split data as train and test
+4>ingested
